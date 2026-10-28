@@ -1,0 +1,68 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    background-color: #373670;
+    margin: 0;
+    padding: 20px;
+}
+
+.lista-musica {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+h3 {
+    
+    color: #fff;
+    margin: 0;
+}
+
+.musica {
+    width: 300px;
+    border-radius: 10px;
+    background-color: #ebe1e1;
+    padding: 10px;
+    margin: 10px 0;
+    box-sizing: border-box;
+}
+
+.musica h4 {
+    color: #070202;
+    text-align: center;
+    margin: 3px 0;
+}
+
+.musica img {
+    width: 100%;
+    border-radius: 5px;
+    display: block;
+}
+.musica h5 {
+    color: #070202;
+}
+.musica h6 {
+    color: #a03838;
+}
+.topo-card-musica{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.topo-card-musica i{
+    color: #a03838;
+}
+.rodape-card-musica{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.rodape-card-musica i{
+    color: #a03838;
+}
