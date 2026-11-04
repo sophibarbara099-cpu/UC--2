@@ -1,0 +1,29 @@
+
+.rubik-<uniquifier> {
+  font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  background-color: #f3f3f3
+}
+ h3{
+color: rgb(238, 238, 238);
+
+main{
+display:flex
+justify-content: center
+
+
+}
+
+
+
+
+
+
+ }
+ .form-cadastro{
+max-width 60;
+background-color: azure;
+
+ }
